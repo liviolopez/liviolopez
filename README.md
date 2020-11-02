@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://drive.google.com/file/d/1F-S2YJzX_oL6Z05z3V1ouRZI3O-qPkUT/view" alt="Welcome!"/>
+<img src="https://drive.google.com/file/d/1F-S2YJzX_oL6Z05z3V1ouRZI3O-qPkUT/view?usp=sharing" alt="Welcome!"/>
 
 </div>
 <!--
