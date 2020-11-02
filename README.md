@@ -1,14 +1,20 @@
 <div align="center">
-<h2> Hi there 👋</h2>
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞 ✌️</h2>
+</div>
+
+<div align="center" width="50">
+
+<img src="https://drive.google.com/file/d/1F-S2YJzX_oL6Z05z3V1ouRZI3O-qPkUT/view?usp=sharing" alt="Welcome!" width="300"/>
+
 </div>
 
 <div align="center">
-
-<img src="https://drive.google.com/file/d/1F-S2YJzX_oL6Z05z3V1ouRZI3O-qPkUT/view?usp=sharing" alt="Welcome!"/>
-
+<i>Happy Coding!</i> 😊
 </div>
+
+</br>
+
 <!--
-**liviolopez/liviolopez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
